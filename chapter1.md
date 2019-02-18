@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Pandas 101
+
+```yaml
+type: VideoExercise
+key: ed9312e375
+xp: 50
+```
+
+`@projector_key`
+8703df5d7a8a7880a6ee0f10c5e210c2
